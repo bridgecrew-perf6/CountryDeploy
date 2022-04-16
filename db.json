@@ -1,0 +1,46 @@
+{
+    "countries": [
+        {
+         "country": "India"
+        },
+        {
+          "country": "China"
+        },
+        {
+          "country": "Canada"
+        },
+        {
+          "country": "US"
+        },
+        {
+          "country": "UK"
+        }
+    ],
+    "cities": [
+      {  "id" : 1,
+        "country" : "India",
+        "city" : "Delhi",
+        "population": "12000000"
+      },
+      {   "id" : 2,
+        "country" : "China",
+        "city" : "Beijing",
+        "population": "15000000"
+      },
+      {   "id" : 3,
+        "country" : "Canada",
+        "city" : "Toronto",
+        "population": "1000000"
+      },
+      {   "id" : 4,
+        "country" : "US",
+        "city" : "Newyork",
+        "population": "2000000"
+      },
+      {  "id" : 5,
+        "country" : "UK",
+        "city" : "London",
+        "population": "3000000"
+      }
+    ]
+  }
